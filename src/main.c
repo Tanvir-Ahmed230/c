@@ -1,5 +1,6 @@
-//Below is the line that will show "Hello World"
+/*Below code will show 
+"Hello World"and it is our first program*/
 #include<stdio.h>
 void main(){
-printf("Hello World!");
+printf(" Hello World!");
 }
